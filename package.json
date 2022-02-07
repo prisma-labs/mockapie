@@ -53,7 +53,6 @@
     "eslint-plugin-prefer-arrow": "1.2.3",
     "eslint-plugin-simple-import-sort": "7.0.0",
     "eslint-plugin-tsdoc": "0.2.14",
-    "format-imports": "2.4.11",
     "markdown-toc": "1.2.0",
     "prettier": "2.5.1",
     "ts-node": "10.5.0",
