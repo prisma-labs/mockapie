@@ -1,1 +1,1 @@
-export * from '~/lib/utils'
+export * as Mockapie from './index_'
