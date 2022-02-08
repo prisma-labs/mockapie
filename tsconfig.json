@@ -34,10 +34,9 @@
       "~*": ["./src/*"]
     },
 
-    // Other
-    // Only enable this for applications.
-    // Packages doing this force their consumers to.
-    // "esModuleInterop": true,
+    // Forced by columnify TODO drop that dep?
+    "esModuleInterop": true,
+    "skipLibCheck": true,
 
     // Transformer Plugins made possible by https://github.com/nonara/ts-patch
     "plugins": [
